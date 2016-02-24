@@ -1,3 +1,5 @@
+Example for radar \#[4992296676229120](http://www.openradar.me/myradars/edit?id=4992296676229120).
+
 === TITLE ===
 
 NSCollectionView wrongly allows multiple selection
